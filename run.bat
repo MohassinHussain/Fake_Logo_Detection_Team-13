@@ -1,0 +1,2 @@
+python FakeLogoDetection.py
+pause
